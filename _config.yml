@@ -1,5 +1,5 @@
 title: Hi, I'm 태현 :D
-description: 밝고 긍정적으로 새로운 것에 도전해보자! 힘들겠지만? 오늘도 화이팅!!
+description: BackEnd Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "scrawled-note.tistory.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -9,7 +9,7 @@ author-image:   taehyeon.jpg
 author-job:     BackEnd Developer
 author-email:   taehyeonkim.kakao.com # Add your email for contant form.
 author-twitter: none # Add your twitter account
-about-author:   현재 (주)위니텍에서 백앤드 개발자로 소방 관련하여 WAS를 개발하고 있습니다.
+about-author:   현재 (주)위니텍에서 백앤드 개발자로 소방 관련하여 WAS를 개발하고 있습니다.<br>밝고 긍정적으로 새로운 것에 도전해보자! 힘들겠지만?<br>오늘도 화이팅!!
 
 # Social settings
 social-twitter:   
