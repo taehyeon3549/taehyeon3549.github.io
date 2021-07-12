@@ -89,5 +89,4 @@ categories: test
 #### Videos
 
 ###### Youtube
-
-<iframe src="https://youtu.be/cmh0rA3yTyc" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/cmh0rA3yTyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
