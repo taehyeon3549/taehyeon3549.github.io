@@ -1,11 +1,5 @@
----
-layout: test
-title: test
-permalink: /category/test/
----
-{% include header.html %}
 <div class="c-posts o-opacity">
-    {% for post in site.categories['test'] %}
+    {% for post in site.categories[page.title] %}
     <article class="c-post">
         {% if post.image %}
         <a class="c-post-thumbnail o-opacity" style="background-image: url({{"/images/" | prepend: site.baseurl | append : post.image}})"
@@ -30,4 +24,3 @@ permalink: /category/test/
     </article> <!-- /.c-post -->
     {% endfor %}
 </div> <!-- /.c-posts -->
-{% include categories.html %}
