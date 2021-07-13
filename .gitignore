@@ -4,3 +4,5 @@ _site
 .editorconfig
 *.DS_Store
 build/
+.jekyll-cache/
+Img/
