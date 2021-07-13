@@ -1,7 +1,7 @@
-title: Welcome to Flexton
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
+title: Hi, I'm 태현 :D
+description: BackEnd Developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "scrawled-note.tistory.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    김태현(TaehyeonKim)
@@ -10,7 +10,7 @@ author-job:     BackEnd Developer
 author-email:   https://formspree.io/f/mrgrapee
 #taehyeonkim.kakao.com # Add your email for contant form.
 author-twitter: none # Add your twitter account
-about-author:   현재 (주)위니텍에서 백앤드 개발자로 소방 관련하여 WAS를 개발하고 있습니다.
+about-author:   현재 (주)위니텍에서 백앤드 개발자로 소방 관련하여 WAS를 개발하고 있습니다.\n밝고 긍정적으로 새로운 것에 도전해보자! 힘들겠지만?\n오늘도 화이팅!!
 
 # Social settings
 social-twitter:   
@@ -25,11 +25,11 @@ social-linkedin:
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
-# Google Analytics
+# Google Analytics 구글 사이트 통계
 google-analytics: # Add your identifier. For example UA-99631805-1
 
-# Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+# Comment Section (Disqus) 댓글
+disqus-identifier: 궁금이 # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
