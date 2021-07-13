@@ -7,7 +7,8 @@ url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. ht
 author-name:    김태현(TaehyeonKim)
 author-image:   taehyeon.jpg
 author-job:     BackEnd Developer
-author-email:   taehyeonkim.kakao.com # Add your email for contant form.
+author-email:   https://formspree.io/f/mrgrapee
+#taehyeonkim.kakao.com # Add your email for contant form.
 author-twitter: none # Add your twitter account
 about-author:   현재 (주)위니텍에서 백앤드 개발자로 소방 관련하여 WAS를 개발하고 있습니다.
 
